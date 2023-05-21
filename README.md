@@ -1,3 +1,5 @@
+Data Analysis / Data Science Project
+
 The objective of this project is to comprehensively analyze and evaluate the quality of life in countries worldwide by examining a wide range of features. 
 Our aim is to identify the factors that contribute to different quality of life values across countries and develop a regression-based machine learning model 
 that can predict quality of life values for unknown countries based on their known features.
